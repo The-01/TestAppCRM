@@ -1,0 +1,20 @@
+project-root (TestAppCRM)
+|-- controllers
+|   |-- contact.js
+|-- models
+|-- |-- contact.js
+|-- node_modules
+|-- |-- // all node modules...
+|-- views
+|-- |-- // views will go here...
+|-- routes
+|   |-- contact.js
+|-- utils
+|   |-- authHelper.js
+|-- |-- crmHelper.js
+|-- xrm
+|   |-- contactService.js
+|-- .env
+|-- index.js
+|-- package-lock.json
+|-- package.json

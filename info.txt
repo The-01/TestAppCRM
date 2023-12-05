@@ -1,0 +1,15 @@
+Set-ExecutionPolicy RemoteSigned
+Set-ExecutionPolicy Restricted
+
+
+--------------------Angular-------------
+
+ng new my-app --no-standalone --routing --ssr=false
+ng g c create
+ng g c read
+ng g s apiservice
+
+rm -rf .git (to remove git folder from current directory)
+
+
+
